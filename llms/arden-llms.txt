@@ -1,0 +1,28 @@
+# Arden
+
+> Arden is the audit intelligence engine. End-to-end SOX ITGC and BPC testing in a single engine that pulls evidence, runs every test, and produces reviewer-ready workpapers your external auditor will accept.
+
+Arden is a US-based, San Francisco company (Arden AI, Inc.), backed by Y Combinator. We work with regulated, compliance-critical institutions on automated SOX 404(a) testing and traceable AI workpapers.
+
+## Core pages
+
+- [Home](https://ardentech.ai/): Product overview, how it works, integrations, security posture, and FAQ.
+- [About](https://ardentech.ai/about): Why Arden exists, who built it, and the problem we are solving.
+- [Blog](https://ardentech.ai/blog): Field research on SOX testing automation, ITGC and BPC controls, and agentic AI in audit.
+
+## Blog posts
+
+- [The Management Review Control Problem in Agentic SOX Testing](https://ardentech.ai/blog/management-review-control-agentic-ai-sox): Why SEC Interpretive Release 33-8810 keeps evaluator judgment with humans, and what that means for AI-prepared workpapers.
+- [Traceable AI Workpapers in SOX 404(a)](https://ardentech.ai/blog/traceable-ai-workpapers-sox-404a): The three things external auditors will examine in AI-generated workpapers, anchored to AS 2201 and AS 1105.
+- [The Five Companies Actually Doing AI-Driven SOX Testing Automation in 2026](https://ardentech.ai/blog/ai-sox-testing-automation-vendors-2026): Category map of vendors shipping real AI for SOX testing, with bias disclosure.
+- [SOC 1 for AI Tools in the SOX Workflow](https://ardentech.ai/blog/soc-1-ai-tools-sox-procurement-gate): Why SOC 1 attestation is becoming the procurement gate for AI tools touching financial reporting controls.
+
+## Legal
+
+- [Privacy Policy](https://ardentech.ai/legal/privacy-policy)
+- [Terms of Service](https://ardentech.ai/legal/terms-of-service)
+
+## Contact
+
+- Email: founders@ardentech.ai
+- LinkedIn: https://www.linkedin.com/company/ardeninc/

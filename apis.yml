@@ -1,8 +1,34 @@
 aid: arden
 name: Arden
-description: Arden is a company surfaced as a portfolio company of y-combinator and added to the API Evangelist
-  network as a stub for enrichment. This profile is a lead awaiting the enrichment pipeline.
+description: >-
+  Arden (Arden AI, Inc.) is an AI-native platform for internal audit and SOX
+  compliance teams, backed by Y Combinator and based in San Francisco. Arden
+  builds AI agents that automatically pull evidence from a company's stack, run
+  end-to-end SOX ITGC and business-process control (BPC) testing, follow up with
+  control owners, and produce reviewer-ready workpapers that external auditors
+  will accept - work that historically ran on spreadsheets and screenshots over
+  weeks. The platform advertises read-only access by default with approval gates
+  before any system writes, integrations across 20+ enterprise systems (Workday,
+  Okta, NetSuite, and others), full-population or sample-based control testing
+  with exception flagging, and full traceability from each conclusion back to the
+  source evidence. Arden targets regulated, compliance-critical institutions
+  performing automated SOX 404(a) testing. Arden does not currently publish a
+  public developer API, OpenAPI definition, SDKs, or developer documentation;
+  this profile is maintained as an API Evangelist network lead and will be
+  enriched further as a public API surface emerges.
 url: https://raw.githubusercontent.com/api-evangelist/arden/refs/heads/main/apis.yml
+accessModel:
+  pricing: unknown
+  onboarding: unknown
+  trial: false
+  try_now: false
+  public: false
+  label: Unknown
+  confidence: low
+  source: []
+  generated: '2026-07-22'
+  method: derived
+image: https://ardentech.ai/arden-logo.png
 x-type: company
 x-source: vc-portfolio
 x-backed-by:
@@ -11,12 +37,42 @@ x-tier: stub
 x-tier-reason: portfolio-lead
 specificationVersion: '0.20'
 created: '2026-07-17'
-modified: '2026-07-17'
+modified: '2026-07-18'
 tags:
 - Company
+- Internal Audit
+- SOX Compliance
+- Audit Automation
+- GRC
+- Artificial Intelligence
+- Agentic AI
+- Financial Reporting
+- Y Combinator
 apis: []
 maintainers:
 - FN: Kin Lane
   email: kin@apievangelist.com
 - FN: APIs.json
   email: info@apis.io
+common:
+- type: DomainSecurity
+  url: security/arden-domain-security.yml
+- type: Website
+  url: https://ardentech.ai/
+- type: About
+  url: https://ardentech.ai/about
+- type: Blog
+  url: https://ardentech.ai/blog
+- type: TermsOfService
+  url: https://ardentech.ai/legal/terms-of-service
+- type: PrivacyPolicy
+  url: https://ardentech.ai/legal/privacy-policy
+- type: LinkedIn
+  url: https://www.linkedin.com/company/ardeninc/
+- type: LLMsTxt
+  url: llms/arden-llms.txt
+x-enrichment:
+  date: '2026-07-19'
+  status: backfilled
+  pass: local-v1
+  note: backfilled from .gitignore signal + verified work evidence
