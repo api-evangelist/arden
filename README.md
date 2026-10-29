@@ -64,6 +64,82 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-Arden is a company surfaced as a portfolio company of y-combinator and added to the API Evangelist network as a stub for enrichment. This profile is a lead awaiting the enrichment pipeline.
+Arden (Arden AI, Inc.) is an AI-native platform for internal audit and SOX compliance teams, backed by Y Combinator and based in San Francisco. Arden builds AI agents that automatically pull evidence from a company's stack, run end-to-end SOX ITGC and business-process control (BPC) testing, follow up with control owners, and produce reviewer-ready workpapers that external auditors will accept - work that historically ran on spreadsheets and screenshots over weeks. The platform advertises read-only access by default with approval gates before any system writes, integrations across 20+ enterprise systems (Workday, Okta, NetSuite, and others), full-population or sample-based control testing with exception flagging, and full traceability from each conclusion back to the source evidence. Arden targets regulated, compliance-critical institutions performing automated SOX 404(a) testing. Arden does not currently publish a public developer API, OpenAPI definition, SDKs, or developer documentation; this profile is maintained as an API Evangelist network lead and will be enriched further as a public API surface emerges.
 
-Backed by: y-combinator
+**Areas:** Company · Internal Audit · SOX Compliance · Audit Automation · GRC · Artificial Intelligence · AI Agents · Financial Reporting · Y Combinator
+
+## Arden on APIs.io
+
+Everything profiled for Arden is published on APIs.io rather than in this repository. Start at the provider page — **[apis.io/providers/arden/](https://apis.io/providers/arden/)** — or go straight to one of the APIs or properties below.
+
+### Published properties
+
+Each property below is a page on APIs.io carrying the machine-readable artifact and what it says.
+
+#### Security (1)
+
+Authentication, trust centre, and vulnerability disclosure.
+
+- [Arden Domain Security](https://apis.io/security/arden/arden-domain-security/)
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://ardentech.ai/)
+- [Blog](https://ardentech.ai/blog)
+- [Terms of service](https://ardentech.ai/legal/terms-of-service)
+- [Privacy policy](https://ardentech.ai/legal/privacy-policy)
+
+## API Evangelist rating
+
+**Kin Score 9.9** — minimal · rubric 0.24.0 · scored 2026-10-17
+
+| Facet | Score |
+|---|---|
+| Discoverability | 55.4 |
+| Contract quality | 0.0 |
+| Contract governance | 0.0 |
+| Operational transparency | 0.0 |
+| Developer ergonomics | 2.4 |
+| Access clarity | 21.1 |
+
+**Agent readiness 0.0** — human-only
+
+| Agent-readiness dimension | Result |
+|---|---|
+| Spec Presence | — |
+| Agentic Access | — |
+| Reversibility Documented | — |
+| MCP Server | — |
+| Auth Clarity | — |
+| Idempotency | — |
+| Error Semantics | — |
+| OpenAPI Examples | — |
+| Rate Limit Signal | — |
+| Event Surface Described | — |
+| Agent Skills | — |
+| Well Known Catalog | — |
+| Consent Identity | — |
+| Agent Card | — |
+| Dry Run Mode | — |
+| Delegated Identity | — |
+| Protected Resource Metadata | — |
+| Dynamic Client Registration | — |
+| Agentic Commerce | — |
+
+**Regulatory alignment 12.7** — Horizontal (data, software, accessibility, platform)
+
+The rubric is published at [github.com/api-evangelist/kin-score](https://github.com/api-evangelist/kin-score). The per-check breakdown behind these numbers — which checks were earned, partial or missed — along with score history and how this provider compares to its peers, is available at [apis.io/providers/arden/](https://apis.io/providers/arden/).
+
+## How this profile is made
+
+API Evangelist profiles a company's public API surface the way a developer would find it: the website, developer portal and documentation, the specifications it publishes, its public repositories, and its pricing, status and changelog pages. From that it derives the properties above — contracts split per API, workflows, schemas, collections, governance rules, plans and rate limits — and scores them against the published [Kin Score rubric](https://github.com/api-evangelist/kin-score).
+
+The artifacts are published on [APIs.io](https://apis.io), not in this repository. This repository is the public record for Arden: the place to say something is wrong, missing or out of date, and to ask for a re-score or a removal.
+
+## Open an issue
+
+- **Something about this listing** — a wrong description, a missing API, a stale artifact or a question about the rating: [open an issue on this repository](https://github.com/api-evangelist/arden/issues/new).
+- **A new API, or one that is not in the catalog yet** — [submit it on APIs.io](https://apis.io/add/).
+- **Anything else** — [the APIs.io inbox](https://github.com/api-search/inbox/issues/new) or [info@apievangelist.com](mailto:info@apievangelist.com).
